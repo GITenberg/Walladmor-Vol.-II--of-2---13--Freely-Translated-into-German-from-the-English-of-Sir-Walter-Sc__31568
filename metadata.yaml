@@ -44,6 +44,8 @@ creator:
 description: '"The 3-volume German original was fictitiously attributed to Sir Walter
   Scott, but actually written by G.W.H. Häring (under the pseud. of Willibald Alexis).
   It was freely adapted into English by Thomas De Quincey."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31568#Walladmor-Vol.-II--of-2---13--Freely-Translated-into-German-from-the-English-of-Sir-Walter-Sc_
 gutenberg_issued: '2010-03-09'
 gutenberg_type: Text
 identifiers:
